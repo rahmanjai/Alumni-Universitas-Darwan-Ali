@@ -1,0 +1,13 @@
+#suggest{
+	margin-top: 3px;
+	min-height: 13px;
+	min-width: 170px;
+	position: absolute;
+	z-index:5;
+	border: silver 1px solid;
+	padding:5px;
+	padding-top: 10px;
+	background-color: #F0FFFF;
+	font-size: 14px;
+	font-family: roboto;
+}

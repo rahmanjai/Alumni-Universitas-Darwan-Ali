@@ -1,0 +1,23 @@
+database alumni
+
+tabel fakultas
+kode fakultas dan nama fakultas
+
+tabel prodi
+kode prodi, kode fakultas dan nama prodi
+
+tabel mahasiswa
+nama, npm, ttl, alamat, jk
+
+tabel dosen
+nidn, nama, alamat
+
+
+
+Tugas
+
+Navigator Selsesai
+ada bodi
+dan
+Selesai di footer
+
